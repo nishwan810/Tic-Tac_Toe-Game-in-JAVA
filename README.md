@@ -2,15 +2,8 @@
 <h1>Tic-Tac-Toe (Java + GUI) </h1>
 
 <h2>A simple Tic-Tac-Toe game built using Java and Swing for the graphical user interface.</h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-
--
--
--
+<br>
 Features:
-
 <br>✅ Player vs Player Mode
 <br>✅ Interactive GUI with Swing
 <br>✅ Win detection & draw handling

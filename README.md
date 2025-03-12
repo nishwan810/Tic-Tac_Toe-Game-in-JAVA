@@ -10,10 +10,11 @@
 -
 -
 Features:
-✅ Player vs Player Mode
-✅ Interactive GUI with Swing
-✅ Win detection & draw handling
-✅ Reset & replay functionality
+
+<br>✅ Player vs Player Mode
+<br>✅ Interactive GUI with Swing
+<br>✅ Win detection & draw handling
+<br>✅ Reset & replay functionality
 -
 -
 -

@@ -1,9 +1,11 @@
 
-<h1>TIC-TAC-TOE Desktop Game </h1>
+<h1>Tic-Tac-Toe (Java + GUI) </h1>
 
+<h2>A simple Tic-Tac-Toe game built using Java and Swing for the graphical user interface.</h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
 
-Tic-Tac-Toe (Java + GUI)
-A simple Tic-Tac-Toe game built using Java and Swing for the graphical user interface.
 -
 -
 -
@@ -18,6 +20,12 @@ Features:
 Tech Stack:
 Language: Java
 GUI: Swing
+
+
+
+  
+
+
 
 
 
